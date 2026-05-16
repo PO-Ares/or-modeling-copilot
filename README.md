@@ -34,6 +34,18 @@ Natural Language
 
 # 项目展示 | Demo Preview
 
+## SaaS-style OR Modeling Interface
+
+![Demo UI](assets/demo_ui.png)
+
+---
+
+## Workflow-based Optimization Pipeline
+
+![Workflow](assets/workflow_pipeline.png)
+
+
+
 ## Workflow Pipeline
 
 ```text
