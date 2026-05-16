@@ -214,33 +214,6 @@ Structured Result + JSON
 
 ---
 
-# 项目特点 | Why This Project Is Different
-
-与传统 Chatbot Demo 不同：
-
-本项目重点关注：
-
-```text
-Natural Language
-→ Structured Extraction
-→ Optimization Modeling
-→ Solver Execution
-```
-
-而不是：
-
-```text
-Chat-only interaction
-```
-
-当前系统更加偏向：
-
-* AI Workflow
-* Structured Reasoning
-* Optimization Copilot
-* Skills-Agent Pipeline
-
----
 
 # 当前限制 | Current Limitations
 
