@@ -1,4 +1,4 @@
-# AI-Powered OR Modeling Assistant: Workflow 设计哲学
+# AI-Powered OR Modeling Assistant: Workflow 设计思路
 
 ## 序言
 
